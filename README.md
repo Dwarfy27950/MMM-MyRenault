@@ -17,13 +17,13 @@ In your terminal, go to your [MagicMirror²][mm] Module folder and clone MMM-Tem
 
 ```bash
 cd ~/MagicMirror/modules
-git clone [GitHub url]
+git clone https://github.com/Dwarfy27950/MMM-RenaultZE/
 ```
 
 ### Update
 
 ```bash
-cd ~/MagicMirror/modules/MMM-Template
+cd ~/MagicMirror/modules//MMM-RenaultZE
 git pull
 ```
 
